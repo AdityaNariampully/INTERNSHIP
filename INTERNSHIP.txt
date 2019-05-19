@@ -1,0 +1,4 @@
+DAY 1
+
+(a) VERSION CONTROL
+sync: push and pull (concept)
